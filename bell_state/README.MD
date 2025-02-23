@@ -25,3 +25,6 @@ Essa é uma correlação não-local, onde o estado de um qubit depende instantan
 
 Na documentação da IBM você pode encontrar uma explicação mais detalhada e precisa.
 
+# Demo
+![](https://github.com/qasm/bell_state/demo.gif)
+
